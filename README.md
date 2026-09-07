@@ -23,3 +23,4 @@ Quantity
 Discount	
 Profit
 
+<img width="1422" height="766" alt="image" src="https://github.com/user-attachments/assets/078bcfd6-bfa1-44dc-a06d-a40a4a9477b7" />
